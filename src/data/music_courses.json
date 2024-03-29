@@ -1,0 +1,104 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Web Development Basics",
+      "slug": "web-development-basics",
+      "description": "Learn the fundamental concepts of web development including HTML, CSS, and basic JavaScript.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "/courses/web-dev-basics.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Responsive Web Design",
+      "slug": "responsive-web-design",
+      "description": "Master the art of creating responsive and mobile-friendly websites with CSS frameworks like Bootstrap.",
+      "price": 109.99,
+      "instructor": "Jane Smith",
+      "isFeatured": false,
+      "image": "/courses/responsive-design.jpg"
+    },
+    {
+      "id": 3,
+      "title": "JavaScript Fundamentals",
+      "slug": "javascript-fundamentals",
+      "description": "Build a strong foundation in JavaScript programming with hands-on projects and exercises.",
+      "price": 119.99,
+      "instructor": "Emily Johnson",
+      "isFeatured": true,
+      "image": "/courses/javascript.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Full-Stack Web Development",
+      "slug": "full-stack-web-development",
+      "description": "Become a full-stack developer by mastering both front-end and back-end technologies like React and Node.js",
+      "price": 129.99,
+      "instructor": "Mike Brown",
+      "isFeatured": false,
+      "image": "/courses/full-stack.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Python for Web Development",
+      "slug": "python-for-web-development",
+      "description": "Learn how to use Python to build dynamic and interactive web applications.",
+      "price": 139.99,
+      "instructor": "Chris Davis",
+      "isFeatured": false,
+      "image": "/courses/python-web.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Front-End Development Bootcamp",
+      "slug": "front-end-development-bootcamp",
+      "description": "Intensive bootcamp to master front-end technologies like HTML, CSS, JavaScript, and popular frameworks.",
+      "price": 149.99,
+      "instructor": "Alex Wilson",
+      "isFeatured": true,
+      "image": "/courses/front-end-bootcamp.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Back-End Development Essentials",
+      "slug": "back-end-development-essentials",
+      "description": "Learn essential back-end development skills including databases, server-side programming, and APIs.",
+      "price": 159.99,
+      "instructor": "Samantha Miller",
+      "isFeatured": false,
+      "image": "/courses/back-end-essentials.jpg"
+    },
+    {
+      "id": 8,
+      "title": "UI/UX Design Principles",
+      "slug": "ui-ux-design-principles",
+      "description": "Understand the principles of user interface and user experience design for creating web applications.",
+      "price": 169.99,
+      "instructor": "Luke Harris",
+      "isFeatured": true,
+      "image": "/courses/ui-ux-design.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Advanced Web Technologies",
+      "slug": "advanced-web-technologies",
+      "description": "Explore advanced web development topics like WebAssembly and Progressive Web Apps (PWAs)",
+      "price": 179.99,
+      "instructor": "Grace Lee",
+      "isFeatured": false,
+      "image": "/courses/advanced-web.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Web Security and Ethical Hacking",
+      "slug": "web-security-ethical-hacking",
+      "description": "Learn about web security vulnerabilities and ethical hacking techniques to secure web applications.",
+      "price": 189.99,
+      "instructor": "Ethan Moore",
+      "isFeatured": true,
+      "image": "/courses/web-security.jpg"
+    }
+  ]
+}
